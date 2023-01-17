@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Gamers-Website/static/css/main.0d7e86b0.css",
+    "main.js": "/Gamers-Website/static/js/main.322463f7.js",
+    "static/media/wallpaperflare.com_wallpaper4.jpg": "/Gamers-Website/static/media/wallpaperflare.com_wallpaper4.7e0a2496824377ba44da.jpg",
+    "static/media/fa-solid-900.ttf": "/Gamers-Website/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/404-error-page-not-found-miss-paper-with-white-vector-20577349.png": "/Gamers-Website/static/media/404-error-page-not-found-miss-paper-with-white-vector-20577349.1f5a87ba938debc17d2c.png",
+    "static/media/fa-brands-400.ttf": "/Gamers-Website/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/index_thumbnail.png": "/Gamers-Website/static/media/index_thumbnail.04e2c7af2a69ca0d0c80.png",
+    "static/media/fa-solid-900.woff2": "/Gamers-Website/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Gamers-Website/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Gamers-Website/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/Gamers-Website/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Gamers-Website/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Gamers-Website/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Gamers-Website/index.html",
+    "main.0d7e86b0.css.map": "/Gamers-Website/static/css/main.0d7e86b0.css.map",
+    "main.322463f7.js.map": "/Gamers-Website/static/js/main.322463f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7e86b0.css",
+    "static/js/main.322463f7.js"
+  ]
+}
